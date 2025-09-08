@@ -183,7 +183,7 @@ $ ipython -i -m transfocate.automated_checkout
 3. PCDS environment: v6.0.1
 4. Transfocate: v0.5.9 
 
-Run on ````.
+Run on mfx-mezz01 
 
 ```
 $ ipython -i -m transfocate.automated_checkout
@@ -195,3 +195,24 @@ $ ipython -i -m transfocate.automated_checkout
 
 ![Summary](data/20250826_1231/summary.png)
 [Report](report_20250826_1231.pdf)
+
+20250908_1543
+==============
+
+1. PLC code: Master (after PLC replacement) 
+2. IOC code: R1.0.0
+3. PCDS environment: v6.0.1 
+4. Transfocate: v0.5.9
+
+Run on ``mfx-mezz01``.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+
+...
+
+((output here))
+```
+
+![Summary](data/20250908_1543/summary.png)
+[Report](report_20250908_1543.pdf)
